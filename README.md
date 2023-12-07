@@ -49,8 +49,8 @@ Before you begin, make sure you have the following installed:
 
 2. Access the Flask app in your web browser:
 
-   - Frontend: http://localhost
-   - Backend: http://localhost:5000
+   - Frontend: http://IP
+   - Backend: http://IP:5000
 
 3. Create the `messages` table in your MySQL database:
 
